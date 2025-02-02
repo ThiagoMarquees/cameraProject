@@ -41,8 +41,8 @@ npm install -g expo-cli
 ### Clonando o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/ThiagoMarquees/cameraProject.git
+cd https://github.com/ThiagoMarquees/cameraProject.git
 ```
 
 ### Instalando as Dependências
